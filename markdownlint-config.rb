@@ -1,4 +1,4 @@
-# keep in sync with .markdownlint.json for VSCode
+# keep in sync with .markdownlint.json for VSCode(Visual Studio Code)
 all
 exclude_tag :line_length
 
